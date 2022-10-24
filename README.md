@@ -1,7 +1,7 @@
 # Comandos-Deploy
 
 # GITHUB_ACTIONS_Enviar_Email 1 = MASTER
-GITHUB_ACTIONS_Enviar_Email &lt;/DEV> 24/10/22 
+GITHUB_ACTIONS &lt;/DEV> 24/10/22 
 
 ==============================================
 
