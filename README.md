@@ -29,6 +29,8 @@ VIDEO OK: https://www.youtube.com/watch?v=PZhnF6e4jJQ FUNCIONA
 
 Video Deploy Github Actions Codifike: https://youtu.be/dfLKUwb-roA
 
+Scheduler: https://docs.github.com/pt/actions/using-workflows/events-that-trigger-workflows#schedule
+
 ==============================================
 
 Deploy Comandos: https://pt.stackoverflow.com/questions/147660/fatal-not-a-git-repository
